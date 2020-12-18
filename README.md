@@ -1,4 +1,1 @@
-# hello-world
-Hello GuitHub
-Small Steps to Big Steps
-ChrisYoung612
+Welcome to My git! Looking forward to making friends with you
